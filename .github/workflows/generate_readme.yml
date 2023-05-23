@@ -12,6 +12,12 @@ on:
     paths:
       - main.py
 
+      # Set the access for individual scopes, or use permissions: write-all
+permissions:
+  pull-requests: write
+  issues: write
+  repository-projects: write
+
 env:
   GITHUB_NAME: gaoxinglei
   GITHUB_EMAIL: gaoxinglei1986@126.com

@@ -10,6 +10,8 @@ My personal blog using issues and GitHub Actions.
 - [Test 7 ](https://github.com/leigaoxing/gitblog/issues/9)--2023-05-23
 - [Test 6 ](https://github.com/leigaoxing/gitblog/issues/8)--2023-05-23
 - [Test 5](https://github.com/leigaoxing/gitblog/issues/7)--2023-05-23
+## Inbox
+- [ChatGPT Inbox](https://github.com/leigaoxing/gitblog/issues/11)--2023-05-26
 ## Test
 - [Test 8 ](https://github.com/leigaoxing/gitblog/issues/10)--2023-05-23
 - [Test 7 ](https://github.com/leigaoxing/gitblog/issues/9)--2023-05-23

@@ -41,3 +41,8 @@ Mr. Ranedeer是我最近看到过的最强大的ChatGPT的Prompt！也适用于G
 来源：Twitter - https://twitter.com/dotey/status/1661551503004368896?s=46&t=qrueup6nMBXgCzYYX8yc-w
 
 <sub>Sent from <a href="https://apps.apple.com/cn/app/id1314212521">PPHub</a></sub>
+
+---
+
+[ChatGPT+麦肯锡方法论，快速了解一个行业](https://twitter.com/dotey/status/1661551503004368896?s=46&t=qrueup6nMBXgCzYYX8yc-w) 
+[Twitter 发布](https://twitter.com/cryptocake777/status/1661680952953962496?s=46&t=qrueup6nMBXgCzYYX8yc-w) 

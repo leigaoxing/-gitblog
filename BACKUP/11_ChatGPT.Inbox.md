@@ -46,3 +46,8 @@ Mr. Ranedeer是我最近看到过的最强大的ChatGPT的Prompt！也适用于G
 
 [ChatGPT+麦肯锡方法论，快速了解一个行业](https://twitter.com/dotey/status/1661551503004368896?s=46&t=qrueup6nMBXgCzYYX8yc-w) 
 [Twitter 发布](https://twitter.com/cryptocake777/status/1661680952953962496?s=46&t=qrueup6nMBXgCzYYX8yc-w) 
+
+---
+
+[ChatGPT 可以帮助您学习一门新语言](https://twitter.com/financeyf5/status/1661937173376176128?s=46&t=qrueup6nMBXgCzYYX8yc-w) 
+[纽约时报的prompt指南](https://twitter.com/dotey/status/1661848143648915457?s=46&t=qrueup6nMBXgCzYYX8yc-w) 

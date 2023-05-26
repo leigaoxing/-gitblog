@@ -51,3 +51,8 @@ Mr. Ranedeer是我最近看到过的最强大的ChatGPT的Prompt！也适用于G
 
 [ChatGPT 可以帮助您学习一门新语言](https://twitter.com/financeyf5/status/1661937173376176128?s=46&t=qrueup6nMBXgCzYYX8yc-w) 
 [纽约时报的prompt指南](https://twitter.com/dotey/status/1661848143648915457?s=46&t=qrueup6nMBXgCzYYX8yc-w) 
+
+---
+
+[如何用 ChatGPT 做数据进阶可视化？（三维交互图与动图视频）](https://wshuyi.medium.com/如何用-chatgpt-做数据进阶可视化-三维交互图与动图视频-b0a7602f7c33) 
+[Build & share Python LLM apps in minutes](https://twitter.com/chainlit_io/status/1661817591113850882?s=46&t=qrueup6nMBXgCzYYX8yc-w) 

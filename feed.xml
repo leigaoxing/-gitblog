@@ -1,10 +1,41 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/leigaoxing/gitblog</id><title>RSS feed of leigaoxing's gitblog</title><updated>2023-05-23T08:53:53.093639+00:00</updated><author><name>gaoxinglei</name><email>gaoxinglei1986@126.com</email></author><link href="https://github.com/leigaoxing/gitblog"/><link href="https://raw.githubusercontent.com/leigaoxing/gitblog/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator><entry><id>https://github.com/leigaoxing/gitblog/issues/10</id><title>Test 8 </title><updated>2023-05-23T08:53:53.382047+00:00</updated><content type="html"><![CDATA[<p>test 8 </p>
-]]></content><link href="https://github.com/leigaoxing/gitblog/issues/10" rel="alternate"/><category term="Test"/><published>2023-05-23T08:53:20+00:00</published></entry><entry><id>https://github.com/leigaoxing/gitblog/issues/9</id><title>Test 7 </title><updated>2023-05-23T08:53:53.507960+00:00</updated><content type="html"><![CDATA[<p>test 7 </p>
-]]></content><link href="https://github.com/leigaoxing/gitblog/issues/9" rel="alternate"/><category term="Test"/><published>2023-05-23T08:49:34+00:00</published></entry><entry><id>https://github.com/leigaoxing/gitblog/issues/8</id><title>Test 6 </title><updated>2023-05-23T08:53:53.633290+00:00</updated><content type="html"><![CDATA[<p>test6 </p>
-]]></content><link href="https://github.com/leigaoxing/gitblog/issues/8" rel="alternate"/><category term="Test"/><published>2023-05-23T08:40:45+00:00</published></entry><entry><id>https://github.com/leigaoxing/gitblog/issues/7</id><title>Test 5</title><updated>2023-05-23T08:53:53.770203+00:00</updated><content type="html"><![CDATA[<p>This is the fiveth test.</p>
-]]></content><link href="https://github.com/leigaoxing/gitblog/issues/7" rel="alternate"/><category term="Test"/><published>2023-05-23T08:33:49+00:00</published></entry><entry><id>https://github.com/leigaoxing/gitblog/issues/6</id><title>Test 4</title><updated>2023-05-23T08:53:53.883688+00:00</updated><content type="html"><![CDATA[<p>the fourth test. The pre 3 test are not pushed by action successfully;</p>
-]]></content><link href="https://github.com/leigaoxing/gitblog/issues/6" rel="alternate"/><category term="Test"/><published>2023-05-23T08:24:30+00:00</published></entry><entry><id>https://github.com/leigaoxing/gitblog/issues/5</id><title>Test 3</title><updated>2023-05-23T08:53:54.007520+00:00</updated><content type="html"><![CDATA[<p>This is the third test.</p>
-]]></content><link href="https://github.com/leigaoxing/gitblog/issues/5" rel="alternate"/><category term="Test"/><published>2023-05-23T08:06:57+00:00</published></entry><entry><id>https://github.com/leigaoxing/gitblog/issues/4</id><title>Test 2 </title><updated>2023-05-23T08:53:54.117235+00:00</updated><content type="html"><![CDATA[<p>The second test.</p>
-]]></content><link href="https://github.com/leigaoxing/gitblog/issues/4" rel="alternate"/><category term="Test"/><published>2023-05-23T07:52:46+00:00</published></entry><entry><id>https://github.com/leigaoxing/gitblog/issues/3</id><title>Test</title><updated>2023-05-23T08:53:54.232276+00:00</updated><content type="html"><![CDATA[<p>This is a test issue.</p>
+<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/leigaoxing/gitblog</id><title>RSS feed of leigaoxing's gitblog</title><updated>2023-05-26T15:34:34.080220+00:00</updated><author><name>gaoxinglei</name><email>gaoxinglei1986@126.com</email></author><link href="https://github.com/leigaoxing/gitblog"/><link href="https://raw.githubusercontent.com/leigaoxing/gitblog/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator><entry><id>https://github.com/leigaoxing/gitblog/issues/11</id><title>ChatGPT Inbox</title><updated>2023-05-26T15:34:34.454468+00:00</updated><content type="html"><![CDATA[<p>Mr. Ranedeer是我最近看到过的最强大的ChatGPT的Prompt！也适用于GPT的API，但都需要GPT-4。它可以让GPT成为你的导师，指导你学习！</p>
+<p>它的用法很简单，在它的项目首页🔗 <a href="https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor">https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor</a> 🔗有详细说明。</p>
+<p>拷贝它的JSON文件内容或者Markdown文件内容，推荐Markdown文件，体积最小。</p>
+<p>它有若干选项：</p>
+<ul>
+<li>Depth：学习的深度或难度，1代表小学生水平，10代表博士水平</li>
+<li>Learning Styles：学习风格，有： 感知型，视觉型*（需要插件），归纳型，积极型，顺序型，直觉型，语言型，演绎型，反思型，全局型</li>
+<li>Communication：沟通方式，有：随机的、正式的、教科书的、外行的、讲故事的、苏格拉底的、幽默的</li>
+<li>Tone Styles：语气风格，辩论、鼓励、中立、告知、友好</li>
+<li>Reasoning Frameworks：推理框架，演绎法、归纳法、归纳法、类比法、随意法</li>
+<li>Language：语言，默认英语，你可以改成GPT-4支持的任意语言。</li>
+</ul>
+<p>你可以略作修改或者直接复制粘贴到ChatGPT，然后你就可以用命令跟GPT对话让它指导你学习了。</p>
+<p>它有以下命令：</p>
+<p>/test ：对你当前学习的结果进行测试
+/config : 更新AI导师的配置选项
+/plan ：根据你的喜好，创建一个学习计划，比如你要学英语
+/search : 搜索特定信息，需要插件支持
+/start : 开始学习
+/continue : 如果输出中断或没有结束，可以通过这个命令继续让GPT输出
+/self-eval : 让AI导师评估自己的课程
+/language : 改变AI导师输出的语言，比如简体中文
+/visualize : 使用插件（例如Wolfram）来实现内容的可视化</p>
+<p>比如一个参考指令如下：</p>
+<p>给我一个中国学术高中生的随机配置
+/language 简体中文
+/plan 我想学习高级英语语法</p>
+<p>测试下来非常强大，唯一的问题是初始的Tokens占用太多，会话消息一多就要重新开始了。</p>
+<p>项目地址：<a href="https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor">https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor</a></p>
+<p>来源：Twitter - <a href="https://twitter.com/dotey/status/1661551503004368896?s=46&amp;t=qrueup6nMBXgCzYYX8yc-w">https://twitter.com/dotey/status/1661551503004368896?s=46&amp;t=qrueup6nMBXgCzYYX8yc-w</a></p>
+<p><sub>Sent from <a href="https://apps.apple.com/cn/app/id1314212521">PPHub</a></sub></p>
+]]></content><link href="https://github.com/leigaoxing/gitblog/issues/11" rel="alternate"/><published>2023-05-26T15:34:01+00:00</published></entry><entry><id>https://github.com/leigaoxing/gitblog/issues/10</id><title>Test 8 </title><updated>2023-05-26T15:34:34.660510+00:00</updated><content type="html"><![CDATA[<p>test 8 </p>
+]]></content><link href="https://github.com/leigaoxing/gitblog/issues/10" rel="alternate"/><category term="Test"/><published>2023-05-23T08:53:20+00:00</published></entry><entry><id>https://github.com/leigaoxing/gitblog/issues/9</id><title>Test 7 </title><updated>2023-05-26T15:34:34.838677+00:00</updated><content type="html"><![CDATA[<p>test 7 </p>
+]]></content><link href="https://github.com/leigaoxing/gitblog/issues/9" rel="alternate"/><category term="Test"/><published>2023-05-23T08:49:34+00:00</published></entry><entry><id>https://github.com/leigaoxing/gitblog/issues/8</id><title>Test 6 </title><updated>2023-05-26T15:34:35.026021+00:00</updated><content type="html"><![CDATA[<p>test6 </p>
+]]></content><link href="https://github.com/leigaoxing/gitblog/issues/8" rel="alternate"/><category term="Test"/><published>2023-05-23T08:40:45+00:00</published></entry><entry><id>https://github.com/leigaoxing/gitblog/issues/7</id><title>Test 5</title><updated>2023-05-26T15:34:35.198917+00:00</updated><content type="html"><![CDATA[<p>This is the fiveth test.</p>
+]]></content><link href="https://github.com/leigaoxing/gitblog/issues/7" rel="alternate"/><category term="Test"/><published>2023-05-23T08:33:49+00:00</published></entry><entry><id>https://github.com/leigaoxing/gitblog/issues/6</id><title>Test 4</title><updated>2023-05-26T15:34:35.371595+00:00</updated><content type="html"><![CDATA[<p>the fourth test. The pre 3 test are not pushed by action successfully;</p>
+]]></content><link href="https://github.com/leigaoxing/gitblog/issues/6" rel="alternate"/><category term="Test"/><published>2023-05-23T08:24:30+00:00</published></entry><entry><id>https://github.com/leigaoxing/gitblog/issues/5</id><title>Test 3</title><updated>2023-05-26T15:34:35.548920+00:00</updated><content type="html"><![CDATA[<p>This is the third test.</p>
+]]></content><link href="https://github.com/leigaoxing/gitblog/issues/5" rel="alternate"/><category term="Test"/><published>2023-05-23T08:06:57+00:00</published></entry><entry><id>https://github.com/leigaoxing/gitblog/issues/4</id><title>Test 2 </title><updated>2023-05-26T15:34:35.733441+00:00</updated><content type="html"><![CDATA[<p>The second test.</p>
+]]></content><link href="https://github.com/leigaoxing/gitblog/issues/4" rel="alternate"/><category term="Test"/><published>2023-05-23T07:52:46+00:00</published></entry><entry><id>https://github.com/leigaoxing/gitblog/issues/3</id><title>Test</title><updated>2023-05-26T15:34:35.905246+00:00</updated><content type="html"><![CDATA[<p>This is a test issue.</p>
 ]]></content><link href="https://github.com/leigaoxing/gitblog/issues/3" rel="alternate"/><category term="Test"/><published>2023-05-23T07:45:13+00:00</published></entry></feed>

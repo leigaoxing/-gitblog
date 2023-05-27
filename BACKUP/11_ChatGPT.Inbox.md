@@ -56,3 +56,7 @@ Mr. Ranedeer是我最近看到过的最强大的ChatGPT的Prompt！也适用于G
 
 [如何用 ChatGPT 做数据进阶可视化？（三维交互图与动图视频）](https://wshuyi.medium.com/如何用-chatgpt-做数据进阶可视化-三维交互图与动图视频-b0a7602f7c33) 
 [Build & share Python LLM apps in minutes](https://twitter.com/chainlit_io/status/1661817591113850882?s=46&t=qrueup6nMBXgCzYYX8yc-w) 
+
+---
+
+[We asked Google Bard what will be Bitcoin price end of 2023; Here’s what it said](https://finbold.com/we-asked-google-bard-what-will-be-bitcoin-price-end-of-2023-heres-what-it-said/) 

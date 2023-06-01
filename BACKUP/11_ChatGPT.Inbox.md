@@ -60,3 +60,8 @@ Mr. Ranedeer是我最近看到过的最强大的ChatGPT的Prompt！也适用于G
 ---
 
 [We asked Google Bard what will be Bitcoin price end of 2023; Here’s what it said](https://finbold.com/we-asked-google-bard-what-will-be-bitcoin-price-end-of-2023-heres-what-it-said/) 
+
+
+---
+
+[Course Review: ChatGPT Prompt Engineering for Developers](https://levelup.gitconnected.com/course-review-chatgpt-prompt-engineering-for-developers-63f7ff37f503)
